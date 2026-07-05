@@ -95,6 +95,8 @@ This project uses YOLO object detection framework optimized for book classificat
 
 ## 📁 Project Structure
 
+```
+
 Real-Book-Detector-by-Yolo/
 ├── README.md
 ├── requirements.txt
@@ -112,7 +114,7 @@ Real-Book-Detector-by-Yolo/
 │   └── training.ipynb
 └── results/
     └── detections/
-
+```
 ## 📊 Results
 
 The model achieves high accuracy across all three categories:
