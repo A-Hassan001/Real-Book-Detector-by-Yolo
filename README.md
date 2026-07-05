@@ -95,7 +95,6 @@ This project uses YOLO object detection framework optimized for book classificat
 
 ## 📁 Project Structure
 
-```
 Real-Book-Detector-by-Yolo/
 ├── README.md
 ├── requirements.txt
@@ -113,7 +112,6 @@ Real-Book-Detector-by-Yolo/
 │   └── training.ipynb
 └── results/
     └── detections/
-```
 
 ## 📊 Results
 
@@ -153,6 +151,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or suggestions, feel free to open an issue on the repository.
 
----
+## License
+
+This project is licensed under the MIT License.
+
+## Author
+
+A-Hassan001
 
 **Note**: Make sure you have the necessary trained model file before running inference. Update the model paths according to your local setup.
